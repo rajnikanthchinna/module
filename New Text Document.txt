@@ -1,0 +1,13 @@
+git add   working directory
+git commit staging area
+repository     git push
+
+
+types of branch 
+1. custmer branch
+2. release branch
+
+cutmer branch exapmples:
+1. travel agency
+2. hospital
+
